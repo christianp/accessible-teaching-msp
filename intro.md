@@ -1,5 +1,5 @@
 This document was made by Scarlett Spackman and Christian Lawson-Perfect as part of a
-Summer project in 2024.
+Summer project for [Newcastle University's School of Mathematics, Statistics and Physics](https://www.ncl.ac.uk/maths-physics/) in 2024.
 
 Scarlett is an undergraduate MMath student leaving Stage 3.
 
@@ -24,6 +24,19 @@ potential.
 > If you have any comments about the content of this document, please 
 > contact me.
 >
-> <cite><a href="https://www.staff.ncl.ac.uk/christian.perfect">Christian Lawson-Perfect</a></cite>
+> <cite><a href="https://www.staff.ncl.ac.uk/christian.perfect">Christian Lawson-Perfect</a>.</cite>
+
+<hr/>
+
+> The School of Mathematics, Statistics and Physics seeks to inculcate values
+> supporting the diversity represented across our academic community, both 
+> student and staff. I whole heartedly welcome and support the evidence- and 
+> practice-based approach exemplified by this study, recognising that this 
+> is an important step along the way, and that we must all continue to 
+> challenge assumptions and non-inclusive practices.
+>
+> <cite>Jon Goss, Director of Education.</cite> 
+
+<hr/>
 
 This work © 2024 by Scarlett Spackman and Christian Lawson-Perfect for Newcastle University is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1) <img alt="Creative Commons" style="height:1em" src="cc-logo.svg"> <img alt="Attribution required" style="height:1em" src="cc-by.svg">.

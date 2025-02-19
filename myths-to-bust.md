@@ -110,8 +110,7 @@ attention. SSPs would still play a crucial role in addressing unique
 needs, but their scope and complexity would be significantly
 streamlined.
 
-### Students will disclose their disability and have an appropriate SSP, or
-will ask the module leader directly for adjustments
+### Students will disclose their disability and have an appropriate SSP, or will ask the module leader directly for adjustments
 
 It is incorrect to assume that students will disclose their disability
 to anybody at the university nor that they will subsequently receive an

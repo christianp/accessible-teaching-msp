@@ -307,7 +307,7 @@ and often prefer information in a visual format because it can be
 processed and referred to over time, unlike spoken communication, which
 is instant and quickly forgotten ( [Howard & Sedgewick,
 2021](../bibliography/#Howard)). Written communication allows students to refer
-back to information as needed, reducing unnecassary cognitive load and
+back to information as needed, reducing unnecessary cognitive load and
 helping them stay organized.
 
 Additionally, students with physical disabilities may also struggle with
