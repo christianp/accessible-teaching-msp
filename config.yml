@@ -22,8 +22,14 @@ structure:
     type: chapter
   title: Advice
   type: part
-- source: bibliography.md
-  title: Bibliography
-  type: chapter
+- content:
+  - source: bibliography.md
+    title: Bibliography
+    type: chapter
+  - source: https://github.com/christianp/accessible-teaching-msp/
+    title: Source code for this document
+    type: url
+  title: Appendix
+  type: part
 title: Accessible teaching for Maths, Stats and Physics
 year: '2024'
