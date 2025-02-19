@@ -1,0 +1,942 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   class="highcharts-root"
+   style="font-family:Helvetica, Arial, sans-serif"
+   width="590.45099"
+   height="338.66223"
+   viewBox="0 0 590.45099 338.66227"
+   aria-hidden="false"
+   aria-label="Interactive chart"
+   id="svg1420"
+   sodipodi:docname="disclosure-breakdown.svg"
+   inkscape:version="1.2.1 (9c6d41e, 2022-07-14)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1422"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="0.73564387"
+     inkscape:cx="213.41849"
+     inkscape:cy="244.00394"
+     inkscape:window-width="1379"
+     inkscape:window-height="847"
+     inkscape:window-x="61"
+     inkscape:window-y="25"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1420" />
+  <desc
+     aria-hidden="true"
+     id="desc1170">Created with Highcharts 11.4.8</desc>
+  <defs
+     aria-hidden="true"
+     id="defs1176">
+    <filter
+       id="highcharts-drop-shadow-1"
+       x="-3.0487805e-09"
+       y="-1.0416667e-08"
+       width="1"
+       height="1">
+      <feDropShadow
+         dx="1"
+         dy="1"
+         flood-color="#000000"
+         flood-opacity="0.75"
+         stdDeviation="2.5" />
+    </filter>
+    <clipPath
+       id="highcharts-wu8gvbp-41-">
+      <rect
+         x="0"
+         y="0"
+         width="504"
+         height="252"
+         fill="none"
+         id="rect1173" />
+    </clipPath>
+  </defs>
+  <rect
+     fill="none"
+     class="highcharts-plot-background"
+     x="70.451019"
+     y="35.015881"
+     width="504"
+     height="252"
+     aria-hidden="true"
+     id="rect1180" />
+  <g
+     class="highcharts-grid highcharts-xaxis-grid"
+     data-z-index="1"
+     aria-hidden="true"
+     id="g1202"
+     transform="translate(-7.5489832,-9.984119)">
+    <path
+       fill="none"
+       stroke="#e6e6e6"
+       stroke-width="0"
+       stroke-dasharray="none"
+       data-z-index="1"
+       class="highcharts-grid-line"
+       d="M 134.5,45 V 297"
+       opacity="1"
+       id="path1182" />
+    <path
+       fill="none"
+       stroke="#e6e6e6"
+       stroke-width="0"
+       stroke-dasharray="none"
+       data-z-index="1"
+       class="highcharts-grid-line"
+       d="M 190.5,45 V 297"
+       opacity="1"
+       id="path1184" />
+    <path
+       fill="none"
+       stroke="#e6e6e6"
+       stroke-width="0"
+       stroke-dasharray="none"
+       data-z-index="1"
+       class="highcharts-grid-line"
+       d="M 246.5,45 V 297"
+       opacity="1"
+       id="path1186" />
+    <path
+       fill="none"
+       stroke="#e6e6e6"
+       stroke-width="0"
+       stroke-dasharray="none"
+       data-z-index="1"
+       class="highcharts-grid-line"
+       d="M 302.5,45 V 297"
+       opacity="1"
+       id="path1188" />
+    <path
+       fill="none"
+       stroke="#e6e6e6"
+       stroke-width="0"
+       stroke-dasharray="none"
+       data-z-index="1"
+       class="highcharts-grid-line"
+       d="M 358.5,45 V 297"
+       opacity="1"
+       id="path1190" />
+    <path
+       fill="none"
+       stroke="#e6e6e6"
+       stroke-width="0"
+       stroke-dasharray="none"
+       data-z-index="1"
+       class="highcharts-grid-line"
+       d="M 414.5,45 V 297"
+       opacity="1"
+       id="path1192" />
+    <path
+       fill="none"
+       stroke="#e6e6e6"
+       stroke-width="0"
+       stroke-dasharray="none"
+       data-z-index="1"
+       class="highcharts-grid-line"
+       d="M 470.5,45 V 297"
+       opacity="1"
+       id="path1194" />
+    <path
+       fill="none"
+       stroke="#e6e6e6"
+       stroke-width="0"
+       stroke-dasharray="none"
+       data-z-index="1"
+       class="highcharts-grid-line"
+       d="M 526.5,45 V 297"
+       opacity="1"
+       id="path1196" />
+    <path
+       fill="none"
+       stroke="#e6e6e6"
+       stroke-width="0"
+       stroke-dasharray="none"
+       data-z-index="1"
+       class="highcharts-grid-line"
+       d="M 582.5,45 V 297"
+       opacity="1"
+       id="path1198" />
+    <path
+       fill="none"
+       stroke="#e6e6e6"
+       stroke-width="0"
+       stroke-dasharray="none"
+       data-z-index="1"
+       class="highcharts-grid-line"
+       d="M 78.5,45 V 297"
+       opacity="1"
+       id="path1200" />
+  </g>
+  <g
+     class="highcharts-grid highcharts-yaxis-grid"
+     data-z-index="1"
+     aria-hidden="true"
+     id="g1212"
+     transform="translate(-7.5489832,-9.984119)">
+    <path
+       fill="none"
+       stroke="#e6e6e6"
+       stroke-width="1"
+       stroke-dasharray="none"
+       data-z-index="1"
+       class="highcharts-grid-line"
+       d="M 78,297.5 H 582"
+       opacity="1"
+       id="path1204" />
+    <path
+       fill="none"
+       stroke="#e6e6e6"
+       stroke-width="1"
+       stroke-dasharray="none"
+       data-z-index="1"
+       class="highcharts-grid-line"
+       d="M 78,213.5 H 582"
+       opacity="1"
+       id="path1206" />
+    <path
+       fill="none"
+       stroke="#e6e6e6"
+       stroke-width="1"
+       stroke-dasharray="none"
+       data-z-index="1"
+       class="highcharts-grid-line"
+       d="M 78,129.5 H 582"
+       opacity="1"
+       id="path1208" />
+    <path
+       fill="none"
+       stroke="#e6e6e6"
+       stroke-width="1"
+       stroke-dasharray="none"
+       data-z-index="1"
+       class="highcharts-grid-line"
+       d="M 78,45.5 H 582"
+       opacity="1"
+       id="path1210" />
+  </g>
+  <rect
+     fill="none"
+     class="highcharts-plot-border"
+     data-z-index="1"
+     stroke="#cccccc"
+     stroke-width="0"
+     x="70.451019"
+     y="35.015881"
+     width="504"
+     height="252"
+     aria-hidden="true"
+     id="rect1214" />
+  <g
+     class="highcharts-axis highcharts-xaxis"
+     data-z-index="2"
+     aria-hidden="true"
+     id="g1220"
+     transform="translate(-7.5489832,-9.984119)">
+    <text
+       x="330"
+       data-z-index="7"
+       text-anchor="middle"
+       class="highcharts-axis-title"
+       style="color:#666666;font-size:9.6px;fill:#666666"
+       y="342"
+       id="text1216">Academic year</text>
+    <path
+       fill="none"
+       class="highcharts-axis-line"
+       stroke="#333333"
+       stroke-width="1"
+       data-z-index="7"
+       d="M 78,297.5 H 582"
+       id="path1218" />
+  </g>
+  <g
+     class="highcharts-axis highcharts-yaxis"
+     data-z-index="2"
+     aria-hidden="true"
+     id="g1226"
+     transform="translate(-7.5489832,-9.984119)">
+    <text
+       x="22.533333"
+       data-z-index="7"
+       text-anchor="middle"
+       transform="rotate(-90,22.533333,171)"
+       class="highcharts-axis-title"
+       style="color:#666666;font-size:9.6px;fill:#666666"
+       y="171"
+       id="text1222">Number of students</text>
+    <path
+       fill="none"
+       class="highcharts-axis-line"
+       stroke="#333333"
+       stroke-width="0"
+       data-z-index="7"
+       d="M 78,45 V 297"
+       id="path1224" />
+  </g>
+  <g
+     class="highcharts-series-group"
+     data-z-index="3"
+     aria-hidden="false"
+     id="g1308"
+     transform="translate(-7.5489832,-9.984119)">
+    <g
+       class="highcharts-series highcharts-series-0 highcharts-line-series"
+       data-z-index="0.1"
+       opacity="1"
+       transform="translate(78,45)"
+       clip-path="url(#highcharts-wu8gvbp-41-)"
+       aria-hidden="true"
+       id="g1232">
+      <path
+         fill="none"
+         d="m 28,234.528 56,-24.192 56,-5.208 56,-7.224 56,-44.52 56,21.168 56,-31.92 56,-59.976 56,-45.864"
+         class="highcharts-graph"
+         data-z-index="1"
+         stroke="#007686"
+         stroke-width="2"
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         id="path1228" />
+      <path
+         fill="none"
+         d="m 28,234.528 56,-24.192 56,-5.208 56,-7.224 56,-44.52 56,21.168 56,-31.92 56,-59.976 56,-45.864"
+         data-z-index="2"
+         class="highcharts-tracker-line"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         stroke="rgba(192,192,192,0.0001)"
+         stroke-width="22"
+         id="path1230" />
+    </g>
+    <g
+       class="highcharts-markers highcharts-series-0 highcharts-line-series highcharts-tracker"
+       data-z-index="0.1"
+       opacity="1"
+       transform="translate(78,45)"
+       clip-path="none"
+       aria-hidden="false"
+       role="region"
+       tabindex="-1"
+       aria-label="Mental health difficulties, line 1 of 3 with 9 data points."
+       id="g1254">
+      <path
+         fill="#007686"
+         d="M 420.5,82.656 Z"
+         class="highcharts-halo highcharts-color-undefined"
+         data-z-index="-1"
+         fill-opacity="0.25"
+         visibility="hidden"
+         id="path1234" />
+      <path
+         fill="#007686"
+         d="m 28.5,238.528 a 4,4 0 1 1 2e-4,0 z"
+         stroke="#ffffff"
+         stroke-width="0"
+         opacity="0"
+         class="highcharts-point"
+         tabindex="-1"
+         role="img"
+         aria-label="14/15, 104. Mental health difficulties."
+         id="path1236" />
+      <path
+         fill="#007686"
+         d="m 84.5,214.336 a 4,4 0 1 1 2e-4,0 z"
+         stroke="#ffffff"
+         stroke-width="0"
+         opacity="0"
+         class="highcharts-point"
+         tabindex="-1"
+         role="img"
+         aria-label="15/16, 248. Mental health difficulties."
+         id="path1238" />
+      <path
+         fill="#007686"
+         d="m 140.5,209.128 a 4,4 0 1 1 2e-4,0 z"
+         stroke="#ffffff"
+         stroke-width="0"
+         opacity="0"
+         class="highcharts-point"
+         tabindex="-1"
+         role="img"
+         aria-label="16/17, 279. Mental health difficulties."
+         id="path1240" />
+      <path
+         fill="#007686"
+         d="m 196.5,201.904 a 4,4 0 1 1 2e-4,0 z"
+         stroke="#ffffff"
+         stroke-width="0"
+         opacity="0"
+         class="highcharts-point"
+         tabindex="-1"
+         role="img"
+         aria-label="17/18, 322. Mental health difficulties."
+         id="path1242" />
+      <path
+         fill="#007686"
+         d="m 252.5,157.384 a 4,4 0 1 1 2e-4,0 z"
+         stroke="#ffffff"
+         stroke-width="0"
+         opacity="0"
+         class="highcharts-point"
+         tabindex="-1"
+         role="img"
+         aria-label="18/19, 587. Mental health difficulties."
+         id="path1244" />
+      <path
+         fill="#007686"
+         d="m 308.5,178.552 a 4,4 0 1 1 2e-4,0 z"
+         stroke="#ffffff"
+         stroke-width="0"
+         opacity="0"
+         class="highcharts-point"
+         tabindex="-1"
+         role="img"
+         aria-label="19/20, 461. Mental health difficulties."
+         id="path1246" />
+      <path
+         fill="#007686"
+         d="m 364.5,146.632 a 4,4 0 1 1 2e-4,0 z"
+         stroke="#ffffff"
+         stroke-width="0"
+         opacity="0"
+         class="highcharts-point"
+         tabindex="-1"
+         role="img"
+         aria-label="20/21, 651. Mental health difficulties."
+         id="path1248" />
+      <path
+         fill="#007686"
+         d="m 420.5,86.656 a 4,4 0 1 1 2e-4,0 z"
+         stroke="#ffffff"
+         stroke-width="0"
+         opacity="0"
+         class="highcharts-point"
+         tabindex="-1"
+         role="img"
+         aria-label="21/22, 1,008. Mental health difficulties."
+         id="path1250" />
+      <path
+         fill="#007686"
+         d="m 476.5,40.792 a 4,4 0 1 1 2e-4,0 z"
+         stroke="#ffffff"
+         stroke-width="0"
+         opacity="0"
+         class="highcharts-point"
+         tabindex="-1"
+         role="img"
+         aria-label="23/24, 1,281. Mental health difficulties."
+         id="path1252" />
+    </g>
+    <g
+       class="highcharts-series highcharts-series-1 highcharts-line-series"
+       data-z-index="0.1"
+       opacity="1"
+       transform="translate(78,45)"
+       clip-path="url(#highcharts-wu8gvbp-41-)"
+       aria-hidden="true"
+       id="g1260">
+      <path
+         fill="none"
+         d="m 28,245.112 56,-6.72 56,1.344 56,0.168 56,-18.48 56,9.408 56,-12.768 56,-21.504 56,-28.392"
+         class="highcharts-graph"
+         data-z-index="1"
+         stroke="#a50088"
+         stroke-width="2"
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         id="path1256" />
+      <path
+         fill="none"
+         d="m 28,245.112 56,-6.72 56,1.344 56,0.168 56,-18.48 56,9.408 56,-12.768 56,-21.504 56,-28.392"
+         data-z-index="2"
+         class="highcharts-tracker-line"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         stroke="rgba(192,192,192,0.0001)"
+         stroke-width="22"
+         id="path1258" />
+    </g>
+    <g
+       class="highcharts-markers highcharts-series-1 highcharts-line-series highcharts-tracker"
+       data-z-index="0.1"
+       opacity="1"
+       transform="translate(78,45)"
+       clip-path="none"
+       aria-hidden="false"
+       role="region"
+       tabindex="-1"
+       aria-label="Multiple disabilities, line 2 of 3 with 9 data points."
+       id="g1282">
+      <path
+         fill="#a50088"
+         d="M 476.5,168.168 Z"
+         class="highcharts-halo highcharts-color-undefined"
+         data-z-index="-1"
+         fill-opacity="0.25"
+         visibility="hidden"
+         id="path1262" />
+      <path
+         fill="#a50088"
+         d="m 28.5,241.112 4,4 -4,4 -4,-4 z"
+         stroke="#ffffff"
+         stroke-width="0"
+         opacity="0"
+         class="highcharts-point"
+         tabindex="-1"
+         role="img"
+         aria-label="14/15, 41. Multiple disabilities."
+         id="path1264" />
+      <path
+         fill="#a50088"
+         d="m 84.5,234.392 4,4 -4,4 -4,-4 z"
+         stroke="#ffffff"
+         stroke-width="0"
+         opacity="0"
+         class="highcharts-point"
+         tabindex="-1"
+         role="img"
+         aria-label="15/16, 81. Multiple disabilities."
+         id="path1266" />
+      <path
+         fill="#a50088"
+         d="m 140.5,235.736 4,4 -4,4 -4,-4 z"
+         stroke="#ffffff"
+         stroke-width="0"
+         opacity="0"
+         class="highcharts-point"
+         tabindex="-1"
+         role="img"
+         aria-label="16/17, 73. Multiple disabilities."
+         id="path1268" />
+      <path
+         fill="#a50088"
+         d="m 196.5,235.904 4,4 -4,4 -4,-4 z"
+         stroke="#ffffff"
+         stroke-width="0"
+         opacity="0"
+         class="highcharts-point"
+         tabindex="-1"
+         role="img"
+         aria-label="17/18, 72. Multiple disabilities."
+         id="path1270" />
+      <path
+         fill="#a50088"
+         d="m 252.5,217.424 4,4 -4,4 -4,-4 z"
+         stroke="#ffffff"
+         stroke-width="0"
+         opacity="0"
+         class="highcharts-point"
+         tabindex="-1"
+         role="img"
+         aria-label="18/19, 182. Multiple disabilities."
+         id="path1272" />
+      <path
+         fill="#a50088"
+         d="m 308.5,226.832 4,4 -4,4 -4,-4 z"
+         stroke="#ffffff"
+         stroke-width="0"
+         opacity="0"
+         class="highcharts-point"
+         tabindex="-1"
+         role="img"
+         aria-label="19/20, 126. Multiple disabilities."
+         id="path1274" />
+      <path
+         fill="#a50088"
+         d="m 364.5,214.064 4,4 -4,4 -4,-4 z"
+         stroke="#ffffff"
+         stroke-width="0"
+         opacity="0"
+         class="highcharts-point"
+         tabindex="-1"
+         role="img"
+         aria-label="20/21, 202. Multiple disabilities."
+         id="path1276" />
+      <path
+         fill="#a50088"
+         d="m 420.5,192.56 4,4 -4,4 -4,-4 z"
+         stroke="#ffffff"
+         stroke-width="0"
+         opacity="0"
+         class="highcharts-point"
+         tabindex="-1"
+         role="img"
+         aria-label="21/22, 330. Multiple disabilities."
+         id="path1278" />
+      <path
+         fill="#a50088"
+         d="m 476.5,164.168 4,4 -4,4 -4,-4 z"
+         stroke="#ffffff"
+         stroke-width="0"
+         opacity="0"
+         class="highcharts-point"
+         tabindex="-1"
+         role="img"
+         aria-label="23/24, 499. Multiple disabilities."
+         id="path1280" />
+    </g>
+    <g
+       class="highcharts-series highcharts-series-2 highcharts-line-series"
+       data-z-index="0.1"
+       opacity="1"
+       transform="translate(78,45)"
+       clip-path="url(#highcharts-wu8gvbp-41-)"
+       aria-hidden="true"
+       id="g1286">
+      <path
+         fill="none"
+         d="m 28,213.192 56,-1.176 56,-2.016 56,-2.52 56,-1.176 56,-1.512 56,0.504 56,0.84 56,-2.52"
+         class="highcharts-graph"
+         data-z-index="1"
+         stroke="#000000"
+         stroke-width="2"
+         stroke-dasharray="2, 2"
+         id="path1284" />
+    </g>
+    <g
+       class="highcharts-markers highcharts-series-2 highcharts-line-series"
+       data-z-index="0.1"
+       opacity="1"
+       transform="translate(78,45)"
+       clip-path="none"
+       aria-hidden="false"
+       role="region"
+       tabindex="-1"
+       aria-label="1% of student population, line 3 of 3 with 9 data points."
+       id="g1306">
+      <path
+         fill="#000000"
+         d="m 24.5,209.192 h 8 v 8 h -8 z"
+         stroke="#ffffff"
+         stroke-width="0"
+         opacity="0"
+         class="highcharts-point"
+         tabindex="-1"
+         role="img"
+         aria-label="14/15, 231. 1% of student population."
+         id="path1288" />
+      <path
+         fill="#000000"
+         d="m 80.5,208.016 h 8 v 8 h -8 z"
+         stroke="#ffffff"
+         stroke-width="0"
+         opacity="0"
+         class="highcharts-point"
+         tabindex="-1"
+         role="img"
+         aria-label="15/16, 238. 1% of student population."
+         id="path1290" />
+      <path
+         fill="#000000"
+         d="m 136.5,206 h 8 v 8 h -8 z"
+         stroke="#ffffff"
+         stroke-width="0"
+         opacity="0"
+         class="highcharts-point"
+         tabindex="-1"
+         role="img"
+         aria-label="16/17, 250. 1% of student population."
+         id="path1292" />
+      <path
+         fill="#000000"
+         d="m 192.5,203.48 h 8 v 8 h -8 z"
+         stroke="#ffffff"
+         stroke-width="0"
+         opacity="0"
+         class="highcharts-point"
+         tabindex="-1"
+         role="img"
+         aria-label="17/18, 265. 1% of student population."
+         id="path1294" />
+      <path
+         fill="#000000"
+         d="m 248.5,202.304 h 8 v 8 h -8 z"
+         stroke="#ffffff"
+         stroke-width="0"
+         opacity="0"
+         class="highcharts-point"
+         tabindex="-1"
+         role="img"
+         aria-label="18/19, 272. 1% of student population."
+         id="path1296" />
+      <path
+         fill="#000000"
+         d="m 304.5,200.792 h 8 v 8 h -8 z"
+         stroke="#ffffff"
+         stroke-width="0"
+         opacity="0"
+         class="highcharts-point"
+         tabindex="-1"
+         role="img"
+         aria-label="19/20, 281. 1% of student population."
+         id="path1298" />
+      <path
+         fill="#000000"
+         d="m 360.5,201.296 h 8 v 8 h -8 z"
+         stroke="#ffffff"
+         stroke-width="0"
+         opacity="0"
+         class="highcharts-point"
+         tabindex="-1"
+         role="img"
+         aria-label="20/21, 278. 1% of student population."
+         id="path1300" />
+      <path
+         fill="#000000"
+         d="m 416.5,202.136 h 8 v 8 h -8 z"
+         stroke="#ffffff"
+         stroke-width="0"
+         opacity="0"
+         class="highcharts-point"
+         tabindex="-1"
+         role="img"
+         aria-label="21/22, 273. 1% of student population."
+         id="path1302" />
+      <path
+         fill="#000000"
+         d="m 472.5,199.616 h 8 v 8 h -8 z"
+         stroke="#ffffff"
+         stroke-width="0"
+         opacity="0"
+         class="highcharts-point"
+         tabindex="-1"
+         role="img"
+         aria-label="23/24, 288. 1% of student population."
+         id="path1304" />
+    </g>
+  </g>
+  <g
+     class="highcharts-label highcharts-series-label highcharts-series-label-0 highcharts-color-none"
+     opacity="1"
+     data-z-index="3"
+     transform="translate(350.45101,90.015881)"
+     aria-hidden="true"
+     id="g1326">
+    <path
+       fill="none"
+       class="highcharts-label-box"
+       d="M 0,0"
+       stroke="#007686"
+       stroke-width="1"
+       id="path1322" />
+    <text
+       x="0"
+       data-z-index="1"
+       style="color:#007686;font-weight:bold;font-size:9.6px;fill:#007686"
+       y="12"
+       id="text1324">Mental health difficulties</text>
+  </g>
+  <g
+     class="highcharts-label highcharts-series-label highcharts-series-label-1 highcharts-color-none"
+     opacity="1"
+     data-z-index="3"
+     transform="translate(423.45101,187.01588)"
+     aria-hidden="true"
+     id="g1332">
+    <path
+       fill="none"
+       class="highcharts-label-box"
+       d="M 0,0"
+       stroke="#a50088"
+       stroke-width="1"
+       id="path1328" />
+    <text
+       x="0"
+       data-z-index="1"
+       style="color:#a50088;font-weight:bold;font-size:9.6px;fill:#a50088"
+       y="12"
+       id="text1330">Multiple disabilities</text>
+  </g>
+  <g
+     class="highcharts-label highcharts-series-label highcharts-series-label-2 highcharts-color-none"
+     opacity="1"
+     data-z-index="3"
+     transform="translate(318.45101,225.01588)"
+     aria-hidden="true"
+     id="g1338">
+    <path
+       fill="none"
+       class="highcharts-label-box"
+       d="M 0,0"
+       stroke="#000000"
+       stroke-width="1"
+       id="path1334" />
+    <text
+       x="0"
+       data-z-index="1"
+       style="color:#000000;font-weight:bold;font-size:9.6px;fill:#000000"
+       y="12"
+       id="text1336">1% of student population</text>
+  </g>
+  <text
+     x="280.45105"
+     text-anchor="middle"
+     class="highcharts-subtitle"
+     data-z-index="4"
+     style="color:#666666;font-size:9.6px;fill:#666666"
+     y="29.427343"
+     aria-hidden="true"
+     id="text1342" />
+  <text
+     x="-5.5489578"
+     text-anchor="start"
+     class="highcharts-caption"
+     data-z-index="4"
+     style="color:#666666;font-size:9.6px;fill:#666666"
+     y="382.42734"
+     aria-hidden="true"
+     id="text1344" />
+  <g
+     class="highcharts-axis-labels highcharts-xaxis-labels"
+     data-z-index="7"
+     aria-hidden="true"
+     id="g1390"
+     transform="translate(-7.5489832,-9.984119)">
+    <text
+       x="106"
+       style="color:#333333;font-size:9.6px;fill:#333333"
+       text-anchor="middle"
+       y="324"
+       opacity="1"
+       id="text1372">14/15</text>
+    <text
+       x="162"
+       style="color:#333333;font-size:9.6px;fill:#333333"
+       text-anchor="middle"
+       y="324"
+       opacity="1"
+       id="text1374">15/16</text>
+    <text
+       x="218"
+       style="color:#333333;font-size:9.6px;fill:#333333"
+       text-anchor="middle"
+       y="324"
+       opacity="1"
+       id="text1376">16/17</text>
+    <text
+       x="274"
+       style="color:#333333;font-size:9.6px;fill:#333333"
+       text-anchor="middle"
+       y="324"
+       opacity="1"
+       id="text1378">17/18</text>
+    <text
+       x="330"
+       style="color:#333333;font-size:9.6px;fill:#333333"
+       text-anchor="middle"
+       y="324"
+       opacity="1"
+       id="text1380">18/19</text>
+    <text
+       x="386"
+       style="color:#333333;font-size:9.6px;fill:#333333"
+       text-anchor="middle"
+       y="324"
+       opacity="1"
+       id="text1382">19/20</text>
+    <text
+       x="442"
+       style="color:#333333;font-size:9.6px;fill:#333333"
+       text-anchor="middle"
+       y="324"
+       opacity="1"
+       id="text1384">20/21</text>
+    <text
+       x="498"
+       style="color:#333333;font-size:9.6px;fill:#333333"
+       text-anchor="middle"
+       y="324"
+       opacity="1"
+       id="text1386">21/22</text>
+    <text
+       x="554"
+       style="color:#333333;font-size:9.6px;fill:#333333"
+       text-anchor="middle"
+       y="324"
+       opacity="1"
+       id="text1388">23/24</text>
+  </g>
+  <g
+     class="highcharts-axis-labels highcharts-yaxis-labels"
+     data-z-index="7"
+     aria-hidden="true"
+     id="g1400"
+     transform="translate(-7.5489832,-9.984119)">
+    <text
+       x="63"
+       style="color:#333333;font-size:9.6px;fill:#333333"
+       text-anchor="end"
+       y="303"
+       opacity="1"
+       id="text1392">0</text>
+    <text
+       x="63"
+       style="color:#333333;font-size:9.6px;fill:#333333"
+       text-anchor="end"
+       y="219"
+       opacity="1"
+       id="text1394">500</text>
+    <text
+       x="63"
+       style="color:#333333;font-size:9.6px;fill:#333333"
+       text-anchor="end"
+       y="135"
+       opacity="1"
+       id="text1396">1000</text>
+    <text
+       x="63"
+       style="color:#333333;font-size:9.6px;fill:#333333"
+       text-anchor="end"
+       y="51"
+       opacity="1"
+       id="text1398">1500</text>
+  </g>
+  <g
+     class="highcharts-label highcharts-tooltip highcharts-color-undefined"
+     data-z-index="8"
+     filter="url(#highcharts-drop-shadow-1)"
+     transform="translate(418.45101,145.01588)"
+     opacity="0"
+     aria-hidden="true"
+     visibility="hidden"
+     id="g1418">
+    <path
+       fill="#ffffff"
+       class="highcharts-label-box highcharts-tooltip-box"
+       d="m 3,0 h 158 a 3,3 0 0 1 3,3 v 36 a 3,3 0 0 1 -3,3 h -27 l -6,6 -6,-6 H 3 A 3,3 0 0 1 0,39 V 3 A 3,3 0 0 1 3,0 Z"
+       stroke-width="0"
+       stroke="#a50088"
+       id="path1404" />
+    <text
+       x="8"
+       data-z-index="1"
+       y="18"
+       style="color:#333333;font-size:9.6px;fill:#333333"
+       id="text1416"><tspan
+   style="font-size:7.68px"
+   id="tspan1406">23/24</tspan><tspan
+   class="highcharts-br"
+   dy="15"
+   x="8"
+   id="tspan1408">​</tspan><tspan
+   style="color:#a50088;fill:#a50088"
+   id="tspan1410">●</tspan> Multiple disabilities: <tspan
+   style="font-weight:bold"
+   id="tspan1412">499</tspan><tspan
+   class="highcharts-br"
+   id="tspan1414">​</tspan></text>
+  </g>
+</svg>

@@ -1,0 +1,29 @@
+build_pdf: false
+institution: Newcastle University
+structure:
+- source: intro.md
+  title: Introduction
+  type: introduction
+- content:
+  - source: more-students-are-disclosing.md
+    title: More students are disclosing disabilities
+    type: chapter
+  - source: udl.md
+    title: Universal design for learning
+    type: chapter
+  title: Why should I care?
+  type: part
+- content:
+  - source: myths-to-bust.md
+    title: Myths to bust
+    type: chapter
+  - source: things-you-can-do.md
+    title: Things you can do
+    type: chapter
+  title: Advice
+  type: part
+- source: bibliography.md
+  title: Bibliography
+  type: chapter
+title: Accessible teaching for Maths, Stats and Physics
+year: '2024'
